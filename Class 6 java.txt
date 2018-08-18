@@ -1,0 +1,13 @@
+     class 6
+Default value for instance variabels is zero for int and for double is 0.00, and null for string when 
+we assign it to an object.
+we don't need to write an object referance to acesses static variabels.
+static means in java single copy will share for every instance.
+final in java is mean it will not change at all.
+default variabels we can only access it inside same package.
+public everywhere.
+protected we need a relationship between class to accss it.
+Eg:- like inheritance.
+private only that class.
+so, if package is different then the class member (a  protected variable or a protected method/function) 
+can be accessed by only subclass objects

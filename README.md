@@ -1,1 +1,1 @@
-this is a repository for keepeing track of work done for the java Duck Coursera class.
+This is a repository for keepeing track of work done for the Java Duke Coursera class.

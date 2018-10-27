@@ -1,0 +1,5 @@
+Emma,F,500
+Olivia,F,200
+Alexia,F,100
+Noha,M,50
+Alex,M,30

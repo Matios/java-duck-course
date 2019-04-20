@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Movie
+comment0.text=\r\n\ Write\ a\ description\ of\ Movie\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=i
+comment1.target=Movie(boolean)
+comment2.params=i
+comment2.target=void\ setIsCheckedOut(boolean)
+numComments=3

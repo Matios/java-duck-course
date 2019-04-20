@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Book
+comment0.text=\r\n\ Write\ a\ description\ of\ Book\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=a\ p\ i\ s
+comment1.target=Book(java.lang.String,\ int,\ boolean,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getAuthor()
+comment3.params=
+comment3.target=int\ getPageCount()
+comment4.params=
+comment4.target=boolean\ isCheckedOut()
+comment5.params=
+comment5.target=java.lang.String\ summary()
+comment6.params=i
+comment6.target=void\ setIsCheckedOut(boolean)
+numComments=7

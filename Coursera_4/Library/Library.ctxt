@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Library
+comment1.params=bs\ ps
+comment1.target=Library(java.util.ArrayList,\ java.util.ArrayList)
+comment2.params=
+comment2.target=java.util.ArrayList\ getBook()
+comment3.params=
+comment3.target=java.util.ArrayList\ getPatron()
+comment4.params=b\ p
+comment4.target=void\ checkOut(LibraryMaterial,\ Patron)
+comment5.params=b\ p
+comment5.target=void\ checkIn(LibraryMaterial,\ Patron)
+numComments=6
